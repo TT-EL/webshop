@@ -1,3 +1,5 @@
+github.com/TT-EL/webshop/controller v0.0.0-20220107033523-f13d5b680b47 h1:Bdp3KmhjM48EjLUrb/ToMIMy7X/xU4GPKFGiLoFHDCM=
+github.com/TT-EL/webshop/controller v0.0.0-20220107033523-f13d5b680b47/go.mod h1:XI5gqmRdPTAXqOTqNmXlQiYD5AVuT1Atx0wKxGSlaX4=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

@@ -10,7 +10,7 @@ import (
 func main() {
 	router := gin.Default()
 
-	router.Get("/login", ct.Login)
+	router.GET("/login", ct.Login)
 
 	http.ListenAndServe(":8080", router)
 }

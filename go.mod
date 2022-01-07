@@ -3,6 +3,7 @@ module webshop
 go 1.16
 
 require (
+	github.com/TT-EL/webshop/controller v0.0.0-20220107033523-f13d5b680b47 // indirect
 	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/go-playground/validator/v10 v10.10.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
